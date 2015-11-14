@@ -5,4 +5,5 @@ package com.exploding.ziv.gonzo.tal.explodingkittens;
  */
 public interface ICard {
     public void Draw();
+
 }
