@@ -25,6 +25,7 @@ public class MainGame extends AppCompatActivity {
         catch (Exception e)
         {
             Log.i("explodingLog", e.toString());
+            Log.i("explodingLog", "Fail in OnCreate in MainGame.java and Gonzo is dumb");
         }
 
         setContentView(R.layout.activity_main_game);
